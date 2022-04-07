@@ -22,4 +22,4 @@ const letter = prompt('Enter a letter : ');
 const result = countString(a, letter);
 
 // displaying the result
-console.log(result);
+document.write(result);

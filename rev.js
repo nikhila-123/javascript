@@ -3,4 +3,6 @@ function rev(n){
     return n.split('').reverse().join('');
 
 }
-console.log(rev(n));
+const n = prompt('reverse a number : ');
+
+document.write(rev(n));
