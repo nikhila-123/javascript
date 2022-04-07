@@ -8,4 +8,6 @@ function swap(){
      b=c;
      document.getElementById("answer1").value= a;
      document.getElementById("answer2").value= b;
+     document.get
      }
+     

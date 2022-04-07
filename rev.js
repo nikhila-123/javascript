@@ -1,6 +1,6 @@
-function reverse_a_number(n){
+function rev(n){
     n=n+'';
     return n.split('').reverse().join('');
 
 }
-console.log(reverse_a_number(98765));
+console.log(rev(n));
